@@ -1,0 +1,3 @@
+# April fools rickroll skatepark website
+
+As long as Ethan doesn't browse my repo before I send him the link, this should work great...
